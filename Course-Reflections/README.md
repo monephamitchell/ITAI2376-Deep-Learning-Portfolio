@@ -23,14 +23,14 @@ This section documents my academic, technical, and professional development thro
 
 My coursework has inspired two personal initiatives:
 
-- Immaculate Automation Solutions (IAS) - an ongoing AI-powered financial automation capstone project.
+- Immaculate Automation Solutions (IAS) - an AI-powered financial automation capstone project.
 - AI with Alea - an educational initiative focused on making artificial intelligence accessible to beginners.
 
 ## Final Learning Reflection Report
 
 The following report provides a comprehensive reflection on my learning experiences, technical development, practical assignments, and future professional goals.
 
-[Read My Learning Journey in Deep Learning (PDF)](ITAI2376_Final_Learning_Reflection.pdf)
+[Read My Learning Journey in Deep Learning (PDF)](ITAI2376%20Final%20Learning%20Reflection.pdf)
 
 ---
 
