@@ -2,136 +2,106 @@
 
 ### AI-Powered Financial Automation
 
+**Course:** ITAI 2376 - Deep Learning  
+**Semester:** Fall 2026  
+**Developer:** Monepha Mitchell  
+**Academic Implementation:** Completed
+
 ## Project Overview
 
-Immaculate Automation Solutions (IAS) is an AI-powered financial automation application designed to help individuals and small businesses simplify financial data management, transaction processing, and financial reporting.
+Immaculate Automation Solutions (IAS) is an AI-powered financial automation application developed as my ITAI 2376 Deep Learning capstone project.
 
-The project combines my academic studies in Artificial Intelligence and Robotics with my interests in finance, business management, and intelligent automation.
-
-IAS was developed as part of my ITAI 2376 Deep Learning capstone project, with the potential for continued development beyond the classroom.
+The application combines artificial intelligence, financial technology, data analysis, and intelligent automation to simplify financial management for individuals and small businesses.
 
 ## Problem Statement
 
-Individuals and small businesses frequently rely on manual spreadsheets to organize financial information.
+Traditional spreadsheet-based financial management can be time-consuming, repetitive, and susceptible to human error.
 
-Manual financial processes can be time-consuming, repetitive, and susceptible to data-entry errors, inconsistent transaction categorization, and reporting inaccuracies.
-
-IAS aims to address these challenges through intelligent automation, structured data processing, and human-supervised decision-making.
+IAS addresses these challenges through automated financial data processing, intelligent assistance, data validation, structured reporting, and human-supervised decision-making.
 
 ## Project Objectives
 
-- Simplify financial data management.
-- Automate repetitive spreadsheet-based processes.
-- Improve transaction categorization.
-- Identify incomplete or inconsistent financial records.
-- Generate organized financial reports.
-- Provide intelligent financial insights.
-- Maintain human oversight of consequential financial decisions.
+- Automate repetitive financial workflows.
+- Improve financial data organization.
+- Support intelligent transaction categorization.
+- Identify inconsistent or incomplete financial records.
+- Generate professional financial reports.
+- Integrate AI-assisted financial analysis.
+- Maintain human oversight and responsible automation.
 
-## Core Application Features
+## Core Application Capabilities
 
 - Financial spreadsheet imports
 - Automated transaction categorization
 - Financial data validation
-- Transaction review and approval
-- Interactive financial dashboard
-- Financial summaries
-- Downloadable financial reports
+- Interactive financial dashboards
 - AI-assisted financial analysis
+- Custom financial reporting
+- Transaction review and approval
+- Exportable financial documents
+- Missing-data safeguards
 
-## Technologies and Tools
+## Technologies Used
 
 - Python
 - Streamlit
 - Pandas
 - OpenAI API
-- Excel and CSV
-- PDF reporting
+- Excel
+- CSV
+- PDF Reporting
 - GitHub
-- Artificial Intelligence
-- Data Analysis and Automation
+- Automated Software Testing
 
-## Connection to Deep Learning
-
-The development of IAS connects several concepts explored throughout ITAI 2376.
+## Connection to Course Concepts
 
 | Course Concept | Application to IAS |
 |---|---|
-| Natural Language Processing | Understanding financial questions and transaction descriptions |
-| AI Agents | Supporting goal-oriented financial workflows |
-| Reasoning and Planning | Breaking complex financial tasks into structured steps |
+| Natural Language Processing | Understanding financial questions and requests |
+| Intelligent Agents | Supporting goal-oriented financial workflows |
+| Agent Planning | Organizing financial tasks into structured steps |
 | Agent Orchestration | Coordinating data processing, validation, and reporting |
-| Model Evaluation | Assessing the reliability of AI-generated recommendations |
-| Human-in-the-Loop | Requiring user review and approval of consequential actions |
-| Responsible AI | Maintaining transparency, privacy, and accountability |
+| Model Evaluation | Assessing the reliability of system outputs |
+| Human-in-the-Loop | Maintaining user review and approval |
+| Responsible AI | Promoting transparency, accountability, and data integrity |
 
-These concepts inform the application design. Not every technique studied in the course has been independently implemented or trained within the current prototype.
+The project applies selected course concepts through a practical software implementation.
 
-## System Workflow
+## Responsible AI Development
 
-1. User imports financial transaction data.
-2. The application processes and validates the records.
-3. Transactions are categorized using available automation logic.
-4. Potential inconsistencies are flagged for review.
-5. The user reviews and approves relevant changes.
-6. Financial information is summarized through the dashboard.
-7. Reports and processed financial data can be exported.
-
-## Prototype Validation
-
-The prototype was evaluated using fictional financial transaction data.
-
-| Validation Metric | Result |
-|---|---:|
-| Transactions Processed | 115 |
-| Accepted Transactions | 115 |
-| Invalid Transactions | 0 |
-| Transactions Flagged for Review | 14 |
-
-The review flags demonstrate the importance of identifying transactions that require additional human attention rather than assuming that every automated decision is correct.
-
-These results reflect a specific prototype test using fictional data and do not establish production-level accuracy.
-
-## Responsible AI and Security
-
-The application prioritizes responsible automation through:
+IAS emphasizes the importance of responsible artificial intelligence through:
 
 - Human approval of consequential financial actions
-- Financial data validation
-- Transparent reporting
-- Protection of API credentials
-- Use of fictional data for public demonstrations
-- Recognition of AI-generated output limitations
-
-## Future Development
-
-Planned enhancements include:
-
-- AI-guided interactive budget creation
-- Proactive financial insights
-- Improved financial spreadsheet templates
-- Enhanced branded PDF reporting
-- Improved transaction review workflows
-- More interactive AI agent integration
-- Expanded testing and validation
-- Continued user interface improvements
+- Protection of sensitive financial information
+- Transparent financial calculations
+- Data validation
+- Recognition of missing information
+- Secure management of API credentials
+- Use of fictional financial data for public testing
 
 ## Personal Learning Reflection
 
-Developing IAS allowed me to connect theoretical artificial intelligence concepts with a practical business application.
+Developing Immaculate Automation Solutions allowed me to transform theoretical artificial intelligence concepts into a practical software application.
 
-The project strengthened my understanding of how intelligent systems can support financial workflows, automate repetitive tasks, and improve the accessibility of financial information.
+Through this project, I strengthened my understanding of intelligent agents, natural language processing, system design, financial data processing, software testing, and responsible automation.
 
-One of my most important lessons was that successful AI applications require more than artificial intelligence capabilities. They also require reliable data processing, thoughtful system design, continuous testing, human oversight, and responsible implementation.
+The project also demonstrated that developing effective AI applications requires more than integrating a language model. Reliable data processing, structured workflows, validation, security, and human oversight are equally important.
 
-IAS represents my continued interest in combining artificial intelligence, financial technology, and business automation to develop meaningful solutions.
+## Beyond the Academic Capstone
+
+The academic implementation of IAS provides a foundation for continued research, software development, and potential commercialization.
+
+Future development will focus on expanding intelligent automation capabilities, enhancing the user experience, and further strengthening application reliability.
 
 ## Dedicated Project Repository
 
-Explore the application's source code, documentation, development progress, and future roadmap in its dedicated GitHub repository.
+The complete application source code, technical documentation, and development history are available in the dedicated IAS GitHub repository.
 
-[Immaculate Automation Solutions - GitHub](https://github.com/monephamitchell/ias-financial-ai-agent)
+[Explore Immaculate Automation Solutions](https://github.com/monephamitchell/ias-financial-ai-agent)
 
 ---
 
+**Learning. Building. Innovating.**
+
 [Return to Main Portfolio](../README.md)
+
