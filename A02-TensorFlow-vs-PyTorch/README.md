@@ -23,9 +23,11 @@ This assignment explores two widely used deep learning frameworks, TensorFlow an
 
 ## Assignment Deliverables
 
-- Comparative research report
-- PowerPoint presentation
-- Jupyter Notebook demonstration
+## Assignment Deliverables
+
+- [Comparative Research Report (PDF)](A02_Comparative_Report.pdf)
+- [TensorFlow vs. PyTorch Presentation](A02_TensorFlow_vs_PyTorch.pptx)
+- [Jupyter Notebook Demonstration](A02_Demonstration.ipynb)
 
 ## Technologies Used
 
